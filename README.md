@@ -5,3 +5,16 @@ The adapters are bolt-on and work well. The original motor cover is not compatib
 
 ![Bosch gen2 standard cover](img/bosch-gen2-standard-cover.jpg?raw=true "Bosch gen2 standard cover")
 
+Covers for gen4:
+
+![Cover gen4 left](img/bosch-gen4-on-gen2-frame-cover-left.jpg?raw=true "Cover gen4 on gen2 frame left")
+
+![Cover gen4 right](img/bosch-gen4-on-gen2-frame-cover-right.jpg?raw=true "Cover gen4 on gen2 frame right")
+
+The right side of the engine was too complicated to deal with so I covered it completely. That's why the left side has a downward hole in the front for airflow. On the right side there is a slot to allow easier installation of spider bolts. Left and right side are joined with four screws. Upper two are standard Bosch gen2 case screws. Lower two are M5 (hex screw with round head). In the bottom there are holes to allow water to exit like in standard gen2 cover.
+
+After printing I made one modification which I haven't tested. It is shown in the following picture. There was a gap between the case and motor. In case it is too tight now, you need to cut slightly or modify the model. See:
+
+![Untested modification](img/Untested-modification.jpg?raw=true "Untested modification")
+
+Repository includes STL files and the Autodesk Fusion 360 design file. Fusion 360 is free for personal use. The project was my first with Fusion.
