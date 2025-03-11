@@ -18,3 +18,5 @@ After printing I made one modification which I haven't tested. It is shown in th
 ![Untested modification](img/Untested-modification.jpg?raw=true "Untested modification")
 
 Repository includes STL files and the Autodesk Fusion 360 design file. Fusion 360 is free for personal use. The project was my first with Fusion 360. The project timeline could be cleaner, constraints used rather than fixing items, etc.
+
+The Fusion 360 file contains reference scan as a mesh. The cover was designed around it. Scan was produced using RealityScan on a phone and cleaned with MeshMixer and Meshlab.
