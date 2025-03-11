@@ -5,11 +5,3 @@ The adapters are bolt-on and work well. The original motor cover is not compatib
 
 ![Bosch gen2 standard cover](img/bosch-gen2-standard-cover.jpg?raw=true "Bosch gen2 standard cover")
 
-When opened, a gen2 motor looks like this from the left and right:
-
-![Bosch gen2 open left](img/bosch-gen2-open-left.jpg?raw=true "Bosch gen2 open left")
-
-![Bosch gen2 open left](img/bosch-gen2-open-right.jpg?raw=true "Bosch gen2 open right")
-
-Retrofitted gen4 with adapters looks quite different and it's obvious why cover does not fit:
-
