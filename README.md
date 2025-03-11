@@ -4,3 +4,9 @@ Cobee sells adapters that allow you install a Bosch gen4 motor to an ebike that 
 The adapters are bolt-on and work well. The original motor cover is not compatible with the retrofitted gen4 motor. This repository tries to solve the "cover issue" for those bikes that had the standard Bosch egg-shaped cover. It looks like this:
 
 ![Bosch gen2 standard cover](img/bosch-gen2-standard-cover.jpg?raw=true "Bosch gen2 standard cover")
+
+When opened, a gen2 motor looks like this from the left and right:
+
+![Bosch gen2 open left](img/bosch-gen2-open-left.jpg?raw=true "Bosch gen2 open left")
+
+![Bosch gen2 open left](img/bosch-gen2-open-right.jpg?raw=true "Bosch gen2 open right")
