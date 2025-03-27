@@ -13,7 +13,7 @@ Covers for gen4:
 
 The right side of the engine was too complicated to deal with so I covered it completely. That's why the left side has a downward hole in the front for airflow. On the right side there is a slot to allow easier installation of spider bolts. Left and right side are joined with four screws. Upper two are standard Bosch gen2 case screws. Lower two are M5 (hex screw with round head). In the bottom there are holes to allow water to exit like in standard gen2 cover.
 
-The right side top could be raised a bit, perhaps 1 mm. It seems the lower seam does not close perfectly. I did not examine that further. Anyway, the seems to work well enough.
+The right side top could be raised a bit, perhaps 1 mm. It seems the lower seam does not close perfectly. I did not examine that further. Anyway, the case seems to work well enough.
 
 Repository includes STL files and the Autodesk Fusion 360 design file. Fusion 360 is free for personal use. The project was my first with Fusion 360. The project timeline could be cleaner, constraints used rather than fixing items, etc.
 
